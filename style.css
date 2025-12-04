@@ -1,8 +1,9 @@
-@charsed "UTF-8";
+@charset "UTF-8";
 
 body {
     background-color: rgb(32, 32, 32);
     text-align: center;
+    display: block;
 }
 
 h1 {
